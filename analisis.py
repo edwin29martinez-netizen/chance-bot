@@ -45,7 +45,7 @@ def calientes(nums: list[str], top: int = 3) -> list[str]:
 def combinaciones(historial: list[dict], sorteo: str, semilla: str, n_aleatorias: int = 3) -> dict:
     """Devuelve combinaciones de 4 cifras con su criterio."""
     propios = numeros(historial, sorteo)
-    base = propios if len(propios) >= 30 else numeros(historial)  # poco historial -> usa todos
+    base = propios if len(propios) >= 25 else numeros(historial)  # poco historial -> usa todos
     freq = frecuencia_posicional(base)
     atr = atraso_posicional(base)
 

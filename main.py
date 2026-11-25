@@ -14,6 +14,7 @@ from html import escape
 from pathlib import Path
 
 import analisis
+import historial_pasado
 import scraper
 import telegram_bot
 
@@ -84,6 +85,13 @@ def ciclo() -> int:
             f"Desde ahora te aviso cada resultado nuevo."
         )
         return 0
+
+    # Carga resultados anteriores de cada chance (solo los que tienen pocos datos)
+    claves_nuevos = {r.clave for r in nuevos}
+    agregados = historial_pasado.completar(hist, {r.sorteo for r in encontrados}, claves_nuevos)
+    if agregados:
+        print(f"Historial pasado agregado: {agregados} resultados")
+        guardar(hist)
 
     hoy = datetime.now(ZONA_CO).date()
     try:
