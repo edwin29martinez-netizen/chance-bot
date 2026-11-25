@@ -448,11 +448,59 @@
   "clave": "sinuano noche|2026-11-24"
  },
  {
+  "sorteo": "Antioqueñita 1",
+  "fecha": "2026-11-25",
+  "numero": "2228",
+  "quinta": "8",
+  "signo": null,
+  "clave": "antioquenita 1|2026-11-25"
+ },
+ {
+  "sorteo": "Cafeterito Tarde",
+  "fecha": "2026-11-25",
+  "numero": "8123",
+  "quinta": "2",
+  "signo": null,
+  "clave": "cafeterito tarde|2026-11-25"
+ },
+ {
+  "sorteo": "Chontico Día",
+  "fecha": "2026-11-25",
+  "numero": "9621",
+  "quinta": "7",
+  "signo": null,
+  "clave": "chontico dia|2026-11-25"
+ },
+ {
   "sorteo": "Dorado Mañana",
   "fecha": "2026-11-25",
   "numero": "6399",
   "quinta": "6",
   "signo": null,
   "clave": "dorado manana|2026-11-25"
+ },
+ {
+  "sorteo": "Fantastica Día",
+  "fecha": "2026-11-25",
+  "numero": "9743",
+  "quinta": "5",
+  "signo": null,
+  "clave": "fantastica dia|2026-11-25"
+ },
+ {
+  "sorteo": "Paisita Día",
+  "fecha": "2026-11-25",
+  "numero": "5868",
+  "quinta": "7",
+  "signo": null,
+  "clave": "paisita dia|2026-11-25"
+ },
+ {
+  "sorteo": "Saman",
+  "fecha": "2026-11-25",
+  "numero": "7705",
+  "quinta": null,
+  "signo": null,
+  "clave": "saman|2026-11-25"
  }
 ]
