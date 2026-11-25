@@ -232,6 +232,14 @@
   "clave": "antioquenita 2|2026-11-24"
  },
  {
+  "sorteo": "Astro Luna",
+  "fecha": "2026-11-24",
+  "numero": "1440",
+  "quinta": null,
+  "signo": "Cancer",
+  "clave": "astro luna|2026-11-24"
+ },
+ {
   "sorteo": "Astro Sol",
   "fecha": "2026-11-24",
   "numero": "6849",
@@ -262,6 +270,14 @@
   "quinta": "8",
   "signo": null,
   "clave": "caribena dia|2026-11-24"
+ },
+ {
+  "sorteo": "Caribeña Noche",
+  "fecha": "2026-11-24",
+  "numero": "1098",
+  "quinta": "4",
+  "signo": null,
+  "clave": "caribena noche|2026-11-24"
  },
  {
   "sorteo": "Chontico Día",
@@ -304,6 +320,14 @@
   "clave": "dorado manana|2026-11-24"
  },
  {
+  "sorteo": "Dorado Noche",
+  "fecha": "2026-11-24",
+  "numero": "7340",
+  "quinta": "6",
+  "signo": null,
+  "clave": "dorado noche|2026-11-24"
+ },
+ {
   "sorteo": "Dorado Tarde",
   "fecha": "2026-11-24",
   "numero": "4233",
@@ -326,6 +350,22 @@
   "quinta": null,
   "signo": null,
   "clave": "fantastica noche|2026-11-24"
+ },
+ {
+  "sorteo": "Lotería de la Cruz Roja",
+  "fecha": "2026-11-24",
+  "numero": "3572",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de la cruz roja|2026-11-24"
+ },
+ {
+  "sorteo": "Lotería del Huila",
+  "fecha": "2026-11-24",
+  "numero": "2227",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del huila|2026-11-24"
  },
  {
   "sorteo": "Motilon Noche",
@@ -368,6 +408,14 @@
   "clave": "pick 4 dia|2026-11-24"
  },
  {
+  "sorteo": "Pick 4 Noche",
+  "fecha": "2026-11-24",
+  "numero": "5459",
+  "quinta": null,
+  "signo": null,
+  "clave": "pick 4 noche|2026-11-24"
+ },
+ {
   "sorteo": "Pijao de Oro",
   "fecha": "2026-11-24",
   "numero": "0536",
@@ -390,5 +438,13 @@
   "quinta": "4",
   "signo": null,
   "clave": "sinuano dia|2026-11-24"
+ },
+ {
+  "sorteo": "Sinuano Noche",
+  "fecha": "2026-11-24",
+  "numero": "4821",
+  "quinta": "7",
+  "signo": null,
+  "clave": "sinuano noche|2026-11-24"
  }
 ]
