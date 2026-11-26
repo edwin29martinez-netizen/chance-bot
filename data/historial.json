@@ -16,6 +16,30 @@
   "clave": "loteria del huila|2026-09-22"
  },
  {
+  "sorteo": "Loteria del Valle",
+  "fecha": "2026-09-23",
+  "numero": "4356",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del valle|2026-09-23"
+ },
+ {
+  "sorteo": "Lotería de Manizales",
+  "fecha": "2026-09-23",
+  "numero": "1933",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de manizales|2026-09-23"
+ },
+ {
+  "sorteo": "Lotería del Meta",
+  "fecha": "2026-09-23",
+  "numero": "2962",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del meta|2026-09-23"
+ },
+ {
   "sorteo": "Lotería de la Cruz Roja",
   "fecha": "2026-09-29",
   "numero": "5698",
@@ -30,6 +54,30 @@
   "quinta": null,
   "signo": null,
   "clave": "loteria del huila|2026-09-29"
+ },
+ {
+  "sorteo": "Loteria del Valle",
+  "fecha": "2026-09-30",
+  "numero": "2012",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del valle|2026-09-30"
+ },
+ {
+  "sorteo": "Lotería de Manizales",
+  "fecha": "2026-09-30",
+  "numero": "6602",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de manizales|2026-09-30"
+ },
+ {
+  "sorteo": "Lotería del Meta",
+  "fecha": "2026-09-30",
+  "numero": "7367",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del meta|2026-09-30"
  },
  {
   "sorteo": "Lotería de la Cruz Roja",
@@ -48,6 +96,30 @@
   "clave": "loteria del huila|2026-10-06"
  },
  {
+  "sorteo": "Loteria del Valle",
+  "fecha": "2026-10-07",
+  "numero": "6416",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del valle|2026-10-07"
+ },
+ {
+  "sorteo": "Lotería de Manizales",
+  "fecha": "2026-10-07",
+  "numero": "9797",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de manizales|2026-10-07"
+ },
+ {
+  "sorteo": "Lotería del Meta",
+  "fecha": "2026-10-07",
+  "numero": "7285",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del meta|2026-10-07"
+ },
+ {
   "sorteo": "Lotería de la Cruz Roja",
   "fecha": "2026-10-13",
   "numero": "7623",
@@ -62,6 +134,30 @@
   "quinta": null,
   "signo": null,
   "clave": "loteria del huila|2026-10-13"
+ },
+ {
+  "sorteo": "Loteria del Valle",
+  "fecha": "2026-10-14",
+  "numero": "5091",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del valle|2026-10-14"
+ },
+ {
+  "sorteo": "Lotería de Manizales",
+  "fecha": "2026-10-14",
+  "numero": "2024",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de manizales|2026-10-14"
+ },
+ {
+  "sorteo": "Lotería del Meta",
+  "fecha": "2026-10-14",
+  "numero": "3415",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del meta|2026-10-14"
  },
  {
   "sorteo": "Astro Sol",
@@ -174,6 +270,30 @@
   "quinta": "8",
   "signo": null,
   "clave": "fantastica dia|2026-10-21"
+ },
+ {
+  "sorteo": "Loteria del Valle",
+  "fecha": "2026-10-21",
+  "numero": "8084",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del valle|2026-10-21"
+ },
+ {
+  "sorteo": "Lotería de Manizales",
+  "fecha": "2026-10-21",
+  "numero": "2624",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de manizales|2026-10-21"
+ },
+ {
+  "sorteo": "Lotería del Meta",
+  "fecha": "2026-10-21",
+  "numero": "1847",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del meta|2026-10-21"
  },
  {
   "sorteo": "Astro Sol",
@@ -854,6 +974,30 @@
   "quinta": "2",
   "signo": null,
   "clave": "fantastica noche|2026-10-28"
+ },
+ {
+  "sorteo": "Loteria del Valle",
+  "fecha": "2026-10-28",
+  "numero": "7544",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del valle|2026-10-28"
+ },
+ {
+  "sorteo": "Lotería de Manizales",
+  "fecha": "2026-10-28",
+  "numero": "4241",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de manizales|2026-10-28"
+ },
+ {
+  "sorteo": "Lotería del Meta",
+  "fecha": "2026-10-28",
+  "numero": "7443",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del meta|2026-10-28"
  },
  {
   "sorteo": "Motilon Noche",
@@ -2294,6 +2438,30 @@
   "quinta": "5",
   "signo": null,
   "clave": "fantastica noche|2026-11-04"
+ },
+ {
+  "sorteo": "Loteria del Valle",
+  "fecha": "2026-11-04",
+  "numero": "7932",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del valle|2026-11-04"
+ },
+ {
+  "sorteo": "Lotería de Manizales",
+  "fecha": "2026-11-04",
+  "numero": "2570",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de manizales|2026-11-04"
+ },
+ {
+  "sorteo": "Lotería del Meta",
+  "fecha": "2026-11-04",
+  "numero": "0543",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del meta|2026-11-04"
  },
  {
   "sorteo": "Motilon Noche",
@@ -3784,6 +3952,30 @@
   "clave": "fantastica noche|2026-11-11"
  },
  {
+  "sorteo": "Loteria del Valle",
+  "fecha": "2026-11-11",
+  "numero": "1067",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del valle|2026-11-11"
+ },
+ {
+  "sorteo": "Lotería de Manizales",
+  "fecha": "2026-11-11",
+  "numero": "9494",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de manizales|2026-11-11"
+ },
+ {
+  "sorteo": "Lotería del Meta",
+  "fecha": "2026-11-11",
+  "numero": "5273",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del meta|2026-11-11"
+ },
+ {
   "sorteo": "Motilon Noche",
   "fecha": "2026-11-11",
   "numero": "8179",
@@ -5232,6 +5424,30 @@
   "clave": "fantastica noche|2026-11-18"
  },
  {
+  "sorteo": "Loteria del Valle",
+  "fecha": "2026-11-18",
+  "numero": "7366",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del valle|2026-11-18"
+ },
+ {
+  "sorteo": "Lotería de Manizales",
+  "fecha": "2026-11-18",
+  "numero": "7300",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de manizales|2026-11-18"
+ },
+ {
+  "sorteo": "Lotería del Meta",
+  "fecha": "2026-11-18",
+  "numero": "6121",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del meta|2026-11-18"
+ },
+ {
   "sorteo": "Motilon Noche",
   "fecha": "2026-11-18",
   "numero": "0560",
@@ -6616,12 +6832,28 @@
   "clave": "antioquenita 2|2026-11-25"
  },
  {
+  "sorteo": "Astro Luna",
+  "fecha": "2026-11-25",
+  "numero": "0274",
+  "quinta": null,
+  "signo": "Capricornio",
+  "clave": "astro luna|2026-11-25"
+ },
+ {
   "sorteo": "Astro Sol",
   "fecha": "2026-11-25",
   "numero": "9448",
   "quinta": null,
   "signo": "Sagitario",
   "clave": "astro sol|2026-11-25"
+ },
+ {
+  "sorteo": "Cafeterito Noche",
+  "fecha": "2026-11-25",
+  "numero": "5987",
+  "quinta": "8",
+  "signo": null,
+  "clave": "cafeterito noche|2026-11-25"
  },
  {
   "sorteo": "Cafeterito Tarde",
@@ -6640,12 +6872,28 @@
   "clave": "caribena dia|2026-11-25"
  },
  {
+  "sorteo": "Caribeña Noche",
+  "fecha": "2026-11-25",
+  "numero": "7443",
+  "quinta": "9",
+  "signo": null,
+  "clave": "caribena noche|2026-11-25"
+ },
+ {
   "sorteo": "Chontico Día",
   "fecha": "2026-11-25",
   "numero": "9621",
   "quinta": "7",
   "signo": null,
   "clave": "chontico dia|2026-11-25"
+ },
+ {
+  "sorteo": "Chontico Noche",
+  "fecha": "2026-11-25",
+  "numero": "1240",
+  "quinta": "1",
+  "signo": null,
+  "clave": "chontico noche|2026-11-25"
  },
  {
   "sorteo": "Culona Día",
@@ -6656,12 +6904,28 @@
   "clave": "culona dia|2026-11-25"
  },
  {
+  "sorteo": "Culona Noche",
+  "fecha": "2026-11-25",
+  "numero": "4494",
+  "quinta": null,
+  "signo": null,
+  "clave": "culona noche|2026-11-25"
+ },
+ {
   "sorteo": "Dorado Mañana",
   "fecha": "2026-11-25",
   "numero": "6399",
   "quinta": "6",
   "signo": null,
   "clave": "dorado manana|2026-11-25"
+ },
+ {
+  "sorteo": "Dorado Noche",
+  "fecha": "2026-11-25",
+  "numero": "4194",
+  "quinta": "9",
+  "signo": null,
+  "clave": "dorado noche|2026-11-25"
  },
  {
   "sorteo": "Dorado Tarde",
@@ -6678,6 +6942,46 @@
   "quinta": "5",
   "signo": null,
   "clave": "fantastica dia|2026-11-25"
+ },
+ {
+  "sorteo": "Fantastica Noche",
+  "fecha": "2026-11-25",
+  "numero": "7726",
+  "quinta": "2",
+  "signo": null,
+  "clave": "fantastica noche|2026-11-25"
+ },
+ {
+  "sorteo": "Loteria del Valle",
+  "fecha": "2026-11-25",
+  "numero": "1335",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del valle|2026-11-25"
+ },
+ {
+  "sorteo": "Lotería de Manizales",
+  "fecha": "2026-11-25",
+  "numero": "0388",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de manizales|2026-11-25"
+ },
+ {
+  "sorteo": "Lotería del Meta",
+  "fecha": "2026-11-25",
+  "numero": "4515",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del meta|2026-11-25"
+ },
+ {
+  "sorteo": "Motilon Noche",
+  "fecha": "2026-11-25",
+  "numero": "6710",
+  "quinta": "1",
+  "signo": null,
+  "clave": "motilon noche|2026-11-25"
  },
  {
   "sorteo": "Motilon Tarde",
@@ -6712,6 +7016,14 @@
   "clave": "pick 4 dia|2026-11-25"
  },
  {
+  "sorteo": "Pick 4 Noche",
+  "fecha": "2026-11-25",
+  "numero": "7214",
+  "quinta": null,
+  "signo": null,
+  "clave": "pick 4 noche|2026-11-25"
+ },
+ {
   "sorteo": "Pijao de Oro",
   "fecha": "2026-11-25",
   "numero": "4686",
@@ -6734,5 +7046,13 @@
   "quinta": "1",
   "signo": null,
   "clave": "sinuano dia|2026-11-25"
+ },
+ {
+  "sorteo": "Sinuano Noche",
+  "fecha": "2026-11-25",
+  "numero": "1538",
+  "quinta": "3",
+  "signo": null,
+  "clave": "sinuano noche|2026-11-25"
  }
 ]
