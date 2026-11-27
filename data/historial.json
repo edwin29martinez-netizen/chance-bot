@@ -7430,5 +7430,141 @@
   "quinta": "7",
   "signo": null,
   "clave": "sinuano noche|2026-11-26"
+ },
+ {
+  "sorteo": "Antioqueñita 1",
+  "fecha": "2026-11-27",
+  "numero": "7840",
+  "quinta": "9",
+  "signo": null,
+  "clave": "antioquenita 1|2026-11-27"
+ },
+ {
+  "sorteo": "Antioqueñita 2",
+  "fecha": "2026-11-27",
+  "numero": "4834",
+  "quinta": "6",
+  "signo": null,
+  "clave": "antioquenita 2|2026-11-27"
+ },
+ {
+  "sorteo": "Astro Sol",
+  "fecha": "2026-11-27",
+  "numero": "9452",
+  "quinta": null,
+  "signo": "Virgo",
+  "clave": "astro sol|2026-11-27"
+ },
+ {
+  "sorteo": "Cafeterito Tarde",
+  "fecha": "2026-11-27",
+  "numero": "4777",
+  "quinta": "7",
+  "signo": null,
+  "clave": "cafeterito tarde|2026-11-27"
+ },
+ {
+  "sorteo": "Caribeña Día",
+  "fecha": "2026-11-27",
+  "numero": "0244",
+  "quinta": "2",
+  "signo": null,
+  "clave": "caribena dia|2026-11-27"
+ },
+ {
+  "sorteo": "Chontico Día",
+  "fecha": "2026-11-27",
+  "numero": "1800",
+  "quinta": "5",
+  "signo": null,
+  "clave": "chontico dia|2026-11-27"
+ },
+ {
+  "sorteo": "Culona Día",
+  "fecha": "2026-11-27",
+  "numero": "5420",
+  "quinta": null,
+  "signo": null,
+  "clave": "culona dia|2026-11-27"
+ },
+ {
+  "sorteo": "Dorado Mañana",
+  "fecha": "2026-11-27",
+  "numero": "2515",
+  "quinta": "6",
+  "signo": null,
+  "clave": "dorado manana|2026-11-27"
+ },
+ {
+  "sorteo": "Dorado Tarde",
+  "fecha": "2026-11-27",
+  "numero": "5501",
+  "quinta": "7",
+  "signo": null,
+  "clave": "dorado tarde|2026-11-27"
+ },
+ {
+  "sorteo": "Fantastica Día",
+  "fecha": "2026-11-27",
+  "numero": "4652",
+  "quinta": "9",
+  "signo": null,
+  "clave": "fantastica dia|2026-11-27"
+ },
+ {
+  "sorteo": "Motilon Tarde",
+  "fecha": "2026-11-27",
+  "numero": "1355",
+  "quinta": "6",
+  "signo": null,
+  "clave": "motilon tarde|2026-11-27"
+ },
+ {
+  "sorteo": "Paisita Día",
+  "fecha": "2026-11-27",
+  "numero": "4302",
+  "quinta": "4",
+  "signo": null,
+  "clave": "paisita dia|2026-11-27"
+ },
+ {
+  "sorteo": "Paisita Noche",
+  "fecha": "2026-11-27",
+  "numero": "5694",
+  "quinta": null,
+  "signo": null,
+  "clave": "paisita noche|2026-11-27"
+ },
+ {
+  "sorteo": "Pick 4 Día",
+  "fecha": "2026-11-27",
+  "numero": "9567",
+  "quinta": null,
+  "signo": null,
+  "clave": "pick 4 dia|2026-11-27"
+ },
+ {
+  "sorteo": "Pijao de Oro",
+  "fecha": "2026-11-27",
+  "numero": "8776",
+  "quinta": "8",
+  "signo": null,
+  "clave": "pijao de oro|2026-11-27"
+ },
+ {
+  "sorteo": "Saman",
+  "fecha": "2026-11-27",
+  "numero": "4601",
+  "quinta": null,
+  "signo": null,
+  "clave": "saman|2026-11-27"
+ },
+ {
+  "sorteo": "Sinuano Día",
+  "fecha": "2026-11-27",
+  "numero": "9091",
+  "quinta": "2",
+  "signo": null,
+  "clave": "sinuano dia|2026-11-27"
  }
 ]
