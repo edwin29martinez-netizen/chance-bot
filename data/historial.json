@@ -40,6 +40,22 @@
   "clave": "loteria del meta|2026-09-23"
  },
  {
+  "sorteo": "Lotería de Bogotá",
+  "fecha": "2026-09-24",
+  "numero": "9744",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de bogota|2026-09-24"
+ },
+ {
+  "sorteo": "Lotería del Quindío",
+  "fecha": "2026-09-24",
+  "numero": "9983",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del quindio|2026-09-24"
+ },
+ {
   "sorteo": "Lotería de la Cruz Roja",
   "fecha": "2026-09-29",
   "numero": "5698",
@@ -78,6 +94,22 @@
   "quinta": null,
   "signo": null,
   "clave": "loteria del meta|2026-09-30"
+ },
+ {
+  "sorteo": "Lotería de Bogotá",
+  "fecha": "2026-10-01",
+  "numero": "8523",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de bogota|2026-10-01"
+ },
+ {
+  "sorteo": "Lotería del Quindío",
+  "fecha": "2026-10-01",
+  "numero": "1999",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del quindio|2026-10-01"
  },
  {
   "sorteo": "Lotería de la Cruz Roja",
@@ -120,6 +152,22 @@
   "clave": "loteria del meta|2026-10-07"
  },
  {
+  "sorteo": "Lotería de Bogotá",
+  "fecha": "2026-10-08",
+  "numero": "8565",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de bogota|2026-10-08"
+ },
+ {
+  "sorteo": "Lotería del Quindío",
+  "fecha": "2026-10-08",
+  "numero": "3452",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del quindio|2026-10-08"
+ },
+ {
   "sorteo": "Lotería de la Cruz Roja",
   "fecha": "2026-10-13",
   "numero": "7623",
@@ -158,6 +206,22 @@
   "quinta": null,
   "signo": null,
   "clave": "loteria del meta|2026-10-14"
+ },
+ {
+  "sorteo": "Lotería de Bogotá",
+  "fecha": "2026-10-15",
+  "numero": "4486",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de bogota|2026-10-15"
+ },
+ {
+  "sorteo": "Lotería del Quindío",
+  "fecha": "2026-10-15",
+  "numero": "5418",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del quindio|2026-10-15"
  },
  {
   "sorteo": "Astro Sol",
@@ -334,6 +398,22 @@
   "quinta": "2",
   "signo": null,
   "clave": "fantastica dia|2026-10-22"
+ },
+ {
+  "sorteo": "Lotería de Bogotá",
+  "fecha": "2026-10-22",
+  "numero": "9392",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de bogota|2026-10-22"
+ },
+ {
+  "sorteo": "Lotería del Quindío",
+  "fecha": "2026-10-22",
+  "numero": "2398",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del quindio|2026-10-22"
  },
  {
   "sorteo": "Astro Sol",
@@ -1214,6 +1294,22 @@
   "quinta": "4",
   "signo": null,
   "clave": "fantastica noche|2026-10-29"
+ },
+ {
+  "sorteo": "Lotería de Bogotá",
+  "fecha": "2026-10-29",
+  "numero": "0500",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de bogota|2026-10-29"
+ },
+ {
+  "sorteo": "Lotería del Quindío",
+  "fecha": "2026-10-29",
+  "numero": "2506",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del quindio|2026-10-29"
  },
  {
   "sorteo": "Motilon Noche",
@@ -2678,6 +2774,22 @@
   "quinta": "5",
   "signo": null,
   "clave": "fantastica noche|2026-11-05"
+ },
+ {
+  "sorteo": "Lotería de Bogotá",
+  "fecha": "2026-11-05",
+  "numero": "0387",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de bogota|2026-11-05"
+ },
+ {
+  "sorteo": "Lotería del Quindío",
+  "fecha": "2026-11-05",
+  "numero": "4879",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del quindio|2026-11-05"
  },
  {
   "sorteo": "Motilon Noche",
@@ -4192,6 +4304,22 @@
   "clave": "fantastica noche|2026-11-12"
  },
  {
+  "sorteo": "Lotería de Bogotá",
+  "fecha": "2026-11-12",
+  "numero": "1970",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de bogota|2026-11-12"
+ },
+ {
+  "sorteo": "Lotería del Quindío",
+  "fecha": "2026-11-12",
+  "numero": "8395",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del quindio|2026-11-12"
+ },
+ {
   "sorteo": "Motilon Noche",
   "fecha": "2026-11-12",
   "numero": "5247",
@@ -5664,6 +5792,22 @@
   "clave": "fantastica noche|2026-11-19"
  },
  {
+  "sorteo": "Lotería de Bogotá",
+  "fecha": "2026-11-19",
+  "numero": "8098",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de bogota|2026-11-19"
+ },
+ {
+  "sorteo": "Lotería del Quindío",
+  "fecha": "2026-11-19",
+  "numero": "5130",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del quindio|2026-11-19"
+ },
+ {
   "sorteo": "Motilon Noche",
   "fecha": "2026-11-19",
   "numero": "2414",
@@ -7072,12 +7216,28 @@
   "clave": "antioquenita 2|2026-11-26"
  },
  {
+  "sorteo": "Astro Luna",
+  "fecha": "2026-11-26",
+  "numero": "8698",
+  "quinta": null,
+  "signo": "Aries",
+  "clave": "astro luna|2026-11-26"
+ },
+ {
   "sorteo": "Astro Sol",
   "fecha": "2026-11-26",
   "numero": "1625",
   "quinta": null,
   "signo": "Acuario",
   "clave": "astro sol|2026-11-26"
+ },
+ {
+  "sorteo": "Cafeterito Noche",
+  "fecha": "2026-11-26",
+  "numero": "2935",
+  "quinta": "8",
+  "signo": null,
+  "clave": "cafeterito noche|2026-11-26"
  },
  {
   "sorteo": "Cafeterito Tarde",
@@ -7096,12 +7256,28 @@
   "clave": "caribena dia|2026-11-26"
  },
  {
+  "sorteo": "Caribeña Noche",
+  "fecha": "2026-11-26",
+  "numero": "3165",
+  "quinta": "6",
+  "signo": null,
+  "clave": "caribena noche|2026-11-26"
+ },
+ {
   "sorteo": "Chontico Día",
   "fecha": "2026-11-26",
   "numero": "8649",
   "quinta": "3",
   "signo": null,
   "clave": "chontico dia|2026-11-26"
+ },
+ {
+  "sorteo": "Chontico Noche",
+  "fecha": "2026-11-26",
+  "numero": "6074",
+  "quinta": "1",
+  "signo": null,
+  "clave": "chontico noche|2026-11-26"
  },
  {
   "sorteo": "Culona Día",
@@ -7112,12 +7288,28 @@
   "clave": "culona dia|2026-11-26"
  },
  {
+  "sorteo": "Culona Noche",
+  "fecha": "2026-11-26",
+  "numero": "9532",
+  "quinta": null,
+  "signo": null,
+  "clave": "culona noche|2026-11-26"
+ },
+ {
   "sorteo": "Dorado Mañana",
   "fecha": "2026-11-26",
   "numero": "2303",
   "quinta": "8",
   "signo": null,
   "clave": "dorado manana|2026-11-26"
+ },
+ {
+  "sorteo": "Dorado Noche",
+  "fecha": "2026-11-26",
+  "numero": "0815",
+  "quinta": "6",
+  "signo": null,
+  "clave": "dorado noche|2026-11-26"
  },
  {
   "sorteo": "Dorado Tarde",
@@ -7134,6 +7326,38 @@
   "quinta": "8",
   "signo": null,
   "clave": "fantastica dia|2026-11-26"
+ },
+ {
+  "sorteo": "Fantastica Noche",
+  "fecha": "2026-11-26",
+  "numero": "4338",
+  "quinta": "4",
+  "signo": null,
+  "clave": "fantastica noche|2026-11-26"
+ },
+ {
+  "sorteo": "Lotería de Bogotá",
+  "fecha": "2026-11-26",
+  "numero": "9925",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de bogota|2026-11-26"
+ },
+ {
+  "sorteo": "Lotería del Quindío",
+  "fecha": "2026-11-26",
+  "numero": "6579",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria del quindio|2026-11-26"
+ },
+ {
+  "sorteo": "Motilon Noche",
+  "fecha": "2026-11-26",
+  "numero": "6146",
+  "quinta": null,
+  "signo": null,
+  "clave": "motilon noche|2026-11-26"
  },
  {
   "sorteo": "Motilon Tarde",
@@ -7168,6 +7392,14 @@
   "clave": "pick 4 dia|2026-11-26"
  },
  {
+  "sorteo": "Pick 4 Noche",
+  "fecha": "2026-11-26",
+  "numero": "3836",
+  "quinta": null,
+  "signo": null,
+  "clave": "pick 4 noche|2026-11-26"
+ },
+ {
   "sorteo": "Pijao de Oro",
   "fecha": "2026-11-26",
   "numero": "5394",
@@ -7190,5 +7422,13 @@
   "quinta": "4",
   "signo": null,
   "clave": "sinuano dia|2026-11-26"
+ },
+ {
+  "sorteo": "Sinuano Noche",
+  "fecha": "2026-11-26",
+  "numero": "3680",
+  "quinta": "7",
+  "signo": null,
+  "clave": "sinuano noche|2026-11-26"
  }
 ]
