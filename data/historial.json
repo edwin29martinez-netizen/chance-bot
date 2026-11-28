@@ -56,6 +56,14 @@
   "clave": "loteria del quindio|2026-09-24"
  },
  {
+  "sorteo": "Lotería de Medellín",
+  "fecha": "2026-09-25",
+  "numero": "1620",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de medellin|2026-09-25"
+ },
+ {
   "sorteo": "Lotería de la Cruz Roja",
   "fecha": "2026-09-29",
   "numero": "5698",
@@ -110,6 +118,14 @@
   "quinta": null,
   "signo": null,
   "clave": "loteria del quindio|2026-10-01"
+ },
+ {
+  "sorteo": "Lotería de Medellín",
+  "fecha": "2026-10-02",
+  "numero": "8611",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de medellin|2026-10-02"
  },
  {
   "sorteo": "Lotería de la Cruz Roja",
@@ -168,6 +184,14 @@
   "clave": "loteria del quindio|2026-10-08"
  },
  {
+  "sorteo": "Lotería de Medellín",
+  "fecha": "2026-10-09",
+  "numero": "0169",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de medellin|2026-10-09"
+ },
+ {
   "sorteo": "Lotería de la Cruz Roja",
   "fecha": "2026-10-13",
   "numero": "7623",
@@ -222,6 +246,14 @@
   "quinta": null,
   "signo": null,
   "clave": "loteria del quindio|2026-10-15"
+ },
+ {
+  "sorteo": "Lotería de Medellín",
+  "fecha": "2026-10-16",
+  "numero": "1271",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de medellin|2026-10-16"
  },
  {
   "sorteo": "Astro Sol",
@@ -454,6 +486,14 @@
   "quinta": "5",
   "signo": null,
   "clave": "fantastica dia|2026-10-23"
+ },
+ {
+  "sorteo": "Lotería de Medellín",
+  "fecha": "2026-10-23",
+  "numero": "3755",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de medellin|2026-10-23"
  },
  {
   "sorteo": "Astro Luna",
@@ -1526,6 +1566,14 @@
   "quinta": "8",
   "signo": null,
   "clave": "fantastica noche|2026-10-30"
+ },
+ {
+  "sorteo": "Lotería de Medellín",
+  "fecha": "2026-10-30",
+  "numero": "2168",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de medellin|2026-10-30"
  },
  {
   "sorteo": "Motilon Noche",
@@ -3006,6 +3054,14 @@
   "quinta": "2",
   "signo": null,
   "clave": "fantastica noche|2026-11-06"
+ },
+ {
+  "sorteo": "Lotería de Medellín",
+  "fecha": "2026-11-06",
+  "numero": "5609",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de medellin|2026-11-06"
  },
  {
   "sorteo": "Motilon Noche",
@@ -4536,6 +4592,14 @@
   "clave": "fantastica noche|2026-11-13"
  },
  {
+  "sorteo": "Lotería de Medellín",
+  "fecha": "2026-11-13",
+  "numero": "5724",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de medellin|2026-11-13"
+ },
+ {
   "sorteo": "Motilon Noche",
   "fecha": "2026-11-13",
   "numero": "3808",
@@ -6024,6 +6088,14 @@
   "clave": "fantastica noche|2026-11-20"
  },
  {
+  "sorteo": "Lotería de Medellín",
+  "fecha": "2026-11-20",
+  "numero": "6586",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de medellin|2026-11-20"
+ },
+ {
   "sorteo": "Motilon Noche",
   "fecha": "2026-11-20",
   "numero": "4054",
@@ -7448,12 +7520,28 @@
   "clave": "antioquenita 2|2026-11-27"
  },
  {
+  "sorteo": "Astro Luna",
+  "fecha": "2026-11-27",
+  "numero": "0431",
+  "quinta": null,
+  "signo": "Virgo",
+  "clave": "astro luna|2026-11-27"
+ },
+ {
   "sorteo": "Astro Sol",
   "fecha": "2026-11-27",
   "numero": "9452",
   "quinta": null,
   "signo": "Virgo",
   "clave": "astro sol|2026-11-27"
+ },
+ {
+  "sorteo": "Cafeterito Noche",
+  "fecha": "2026-11-27",
+  "numero": "7559",
+  "quinta": "0",
+  "signo": null,
+  "clave": "cafeterito noche|2026-11-27"
  },
  {
   "sorteo": "Cafeterito Tarde",
@@ -7472,12 +7560,28 @@
   "clave": "caribena dia|2026-11-27"
  },
  {
+  "sorteo": "Caribeña Noche",
+  "fecha": "2026-11-27",
+  "numero": "5626",
+  "quinta": "8",
+  "signo": null,
+  "clave": "caribena noche|2026-11-27"
+ },
+ {
   "sorteo": "Chontico Día",
   "fecha": "2026-11-27",
   "numero": "1800",
   "quinta": "5",
   "signo": null,
   "clave": "chontico dia|2026-11-27"
+ },
+ {
+  "sorteo": "Chontico Noche",
+  "fecha": "2026-11-27",
+  "numero": "3144",
+  "quinta": "3",
+  "signo": null,
+  "clave": "chontico noche|2026-11-27"
  },
  {
   "sorteo": "Culona Día",
@@ -7488,12 +7592,28 @@
   "clave": "culona dia|2026-11-27"
  },
  {
+  "sorteo": "Culona Noche",
+  "fecha": "2026-11-27",
+  "numero": "1150",
+  "quinta": null,
+  "signo": null,
+  "clave": "culona noche|2026-11-27"
+ },
+ {
   "sorteo": "Dorado Mañana",
   "fecha": "2026-11-27",
   "numero": "2515",
   "quinta": "6",
   "signo": null,
   "clave": "dorado manana|2026-11-27"
+ },
+ {
+  "sorteo": "Dorado Noche",
+  "fecha": "2026-11-27",
+  "numero": "9051",
+  "quinta": "5",
+  "signo": null,
+  "clave": "dorado noche|2026-11-27"
  },
  {
   "sorteo": "Dorado Tarde",
@@ -7510,6 +7630,30 @@
   "quinta": "9",
   "signo": null,
   "clave": "fantastica dia|2026-11-27"
+ },
+ {
+  "sorteo": "Fantastica Noche",
+  "fecha": "2026-11-27",
+  "numero": "4344",
+  "quinta": "5",
+  "signo": null,
+  "clave": "fantastica noche|2026-11-27"
+ },
+ {
+  "sorteo": "Lotería de Medellín",
+  "fecha": "2026-11-27",
+  "numero": "4898",
+  "quinta": null,
+  "signo": null,
+  "clave": "loteria de medellin|2026-11-27"
+ },
+ {
+  "sorteo": "Motilon Noche",
+  "fecha": "2026-11-27",
+  "numero": "1806",
+  "quinta": null,
+  "signo": null,
+  "clave": "motilon noche|2026-11-27"
  },
  {
   "sorteo": "Motilon Tarde",
@@ -7566,5 +7710,13 @@
   "quinta": "2",
   "signo": null,
   "clave": "sinuano dia|2026-11-27"
+ },
+ {
+  "sorteo": "Sinuano Noche",
+  "fecha": "2026-11-27",
+  "numero": "4683",
+  "quinta": "2",
+  "signo": null,
+  "clave": "sinuano noche|2026-11-27"
  }
 ]
